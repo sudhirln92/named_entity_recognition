@@ -9,3 +9,12 @@ Data Processing: Processing text
 
 ## AWS Architecture
 ![AWS Architecture](doc/ner.drawio.png)
+
+## Resource
+* [Kaggle: NER using BERT (PyTorch)](https://www.kaggle.com/code/dianalaveena/ner-using-bert-pytorch)
+* [Towards Data Science: Custom NER with BERT](https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
+* [CS230 Stanford: Named Entity Recognition](https://cs230.stanford.edu/blog/namedentity/)
+* [Colab: Transformers Tutorial — Custom NER with BERT (first wordpiece)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT_only_first_wordpiece.ipynb)
+* [GitHub: BERT-NER](https://github.com/kyzhouhzau/BERT-NER)
+* [GitHub: pytorch_ner](https://github.com/baaraban/pytorch_ner)
+* [AWS Blog: Detect NLP data drift using custom SageMaker Model Monitor](https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/)
